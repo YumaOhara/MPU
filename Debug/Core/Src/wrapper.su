@@ -1,0 +1,2 @@
+wrapper.cpp:5:9:uint8_t read8bit(uint8_t)	32	static
+wrapper.cpp:23:6:void main_cpp()	8	static
